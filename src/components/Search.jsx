@@ -61,7 +61,16 @@ export const Search = ({ baseUrl , onDataFetch }) => {
     {
       key:"Venus International Packer And Movers",
       value:"Venus International Packer And Movers"
-    }
+    },
+    {
+      key:"Pradhan Transport",
+      value:"Pradhan Transport"
+    },
+    {
+      key:"A R Transport",
+      value:"A R Transport"
+    },
+    
 
   ];
   const vehicleTypeData = [
